@@ -253,6 +253,22 @@ header {
     padding: 150px 0;
     position: relative; /* Add relative positioning to contain absolute-positioned content */
 }
+/* Branding section styling */
+.branding {
+    background-color: rgba(148, 72, 72, 0.507);
+    border-radius: 10px; /* Change this to match your header background color */
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+    margin-bottom: 10px;
+    display:inline-block
+
+}
+
+.branding h2 {
+    font-size: 36px;
+    margin: 0;
+}
 
 /* Other section stylings */
 /* Add stylings for featured-motorcycles, benefits, testimonials, services, etc. */
